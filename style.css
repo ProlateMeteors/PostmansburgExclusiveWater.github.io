@@ -48,6 +48,10 @@ p {
   margin: 40px 0;
 }
 
+section#header {
+  background-color: black;
+}
+
 button.normal {
   font-size: 14px;
   font-weight: 600;
@@ -491,6 +495,11 @@ footer .col {
 
 footer .logo {
   margin-bottom: 30px;
+}
+
+img.logo {
+  height: 50%;
+  width: 50%;
 }
 
 footer h4 {
